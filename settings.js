@@ -15,7 +15,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
+global.alivepic = `https://ibb.co/2dwRkXh.jpg `
 global.owner = ['94712923200'] //ur owner number
 global.ownername = "Himath Nethvidu" //ur owner name
 global.ytname = "YT" //ur yt chanel name
@@ -25,7 +25,7 @@ global.location = "Sri Lanka,Southern,Matara" //ur location
 //bot bomdy 
 global.ownernomer = "94712923200" //ur number
 global.premium = ['94712923200'] //ur premium number
-global.botname = 'DarkNero-Bot-MD-V7' //ur bot name
+global.botname = 'DarkNero-Bot-MD-V85' //ur bot name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/" //ur website to be displayed
 global.botscript = 'https://github.com/HIMATH-813' //script link
@@ -50,9 +50,9 @@ global.mess = {
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    wait: '⬇️In process...',
+    linkm: '👀Where is the link?',
+    endLimit: '☠Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
 }
 
