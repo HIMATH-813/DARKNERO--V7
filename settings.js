@@ -25,7 +25,7 @@ global.location = "Sri Lanka,Southern,Matara" //ur location
 //bot bomdy 
 global.ownernomer = "94712923200" //ur number
 global.premium = ['94712923200'] //ur premium number
-global.botname = 'DarkNero-Bot-MD-V85' //ur bot name
+global.botname = '❯❯❯❯❯❯ 𝙷𝚒𝚖𝚊𝚝𝚑 𝙽𝚎𝚝𝚑𝚟𝚒𝚍𝚞 ❮❮❮❮❮❮' //ur bot name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/" //ur website to be displayed
 global.botscript = 'https://github.com/HIMATH-813' //script link
