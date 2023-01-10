@@ -15,7 +15,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.alivepic = `https://ibb.co/2dwRkXh.jpg `
+global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
 global.owner = ['94712923200'] //ur owner number
 global.ownername = "Himath Nethvidu" //ur owner name
 global.ytname = "YT" //ur yt chanel name
@@ -27,7 +27,7 @@ global.ownernomer = "94712923200" //ur number
 global.premium = ['94712923200'] //ur premium number
 global.botname = '❯❯❯❯❯❯ 𝙷𝚒𝚖𝚊𝚝𝚑 𝙽𝚎𝚝𝚑𝚟𝚒𝚍𝚞 ❮❮❮❮❮❮' //ur bot name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.youtube.com/" //ur website to be displayed
+global.websitex = "https://instagram.com/_himath__nethvidu___" //ur website to be displayed
 global.botscript = 'https://github.com/HIMATH-813' //script link
 global.themeemoji = "🛸" //ur theme emoji
 global.packname = "Sticker By Dark Nero 🖤" //ur sticker watermark packname
