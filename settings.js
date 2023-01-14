@@ -16,14 +16,14 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
-global.owner = ['94712923200'] //ur owner number
+global.owner = ['94760244420'] //ur owner number
 global.ownername = "Himath Nethvidu" //ur owner name
 global.ytname = "YT" //ur yt chanel name
 global.socialm = "https://instagram.com/_himath__nethvidu___" //ur github or insta name
 global.location = "Sri Lanka,Southern,Matara" //ur location
 
 //bot bomdy 
-global.ownernomer = "94712923200" //ur number
+global.ownernomer = "94760244420" //ur number
 global.premium = ['94712923200'] //ur premium number
 global.botname = '❯❯❯❯❯❯ 𝙷𝚒𝚖𝚊𝚝𝚑 𝙽𝚎𝚝𝚑𝚟𝚒𝚍𝚞 ❮❮❮❮❮❮' //ur bot name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
